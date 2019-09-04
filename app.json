@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Food Delivery",
+    "slug": "navigation-test",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/food_delivery_icon.png",
+    "splash": {
+      "image": "./assets/food_delivery_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f98c00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Idli",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607716/food%20delivery/dishes/idli_h3yxnd.jpg",
+    "price": "60",
+    "label": "4 pieces",
+    "rating": 4
+  },
+  {
+    "id": "2",
+    "name": "Dosa",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607719/food%20delivery/dishes/dosa_aisirq.jpg",
+    "price": "75",
+    "label": "1 piece",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Puri",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607714/food%20delivery/dishes/puri_a6xyzo.jpg",
+    "price": 45,
+    "label": "2 pieces",
+    "rating": 3
+  },
+  {
+    "id": "4",
+    "name": "Pongal",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607714/food%20delivery/dishes/pongal_uqscfl.jpg",
+    "price": 45,
+    "label": "1 plate",
+    "rating": 4
+  },
+  {
+    "id": "5",
+    "name": "Roti",
+    "isVegetarian": true,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607713/food%20delivery/dishes/roti_nqw7yo.jpg",
+    "price": 30,
+    "label": "2 pieces",
+    "rating": 5
+  },
+  {
+    "id": "6",
+    "name": "Paneer Butter Masala",
+    "isVegetarian": true,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607715/food%20delivery/dishes/paneer-butter-masala_wf2ih4.jpg",
+    "price": 60,
+    "label": "1 bowl",
+    "rating": 4
+  },
+  {
+    "id": "7",
+    "name": "Vada",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607714/food%20delivery/dishes/vada_omonzb.jpg",
+    "price": 30,
+    "label": "2 pieces",
+    "rating": 5
+  },
+  {
+    "id": "8",
+    "name": "Parotta",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607714/food%20delivery/dishes/parotta_mzoz2y.jpg",
+    "price": 40,
+    "label": "2 pieces",
+    "rating": 2
+  },
+  {
+    "id": "9",
+    "name": "Chicken Briyani",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607717/food%20delivery/dishes/chicken-briyani_hgrn2p.jpg",
+    "price": 210,
+    "label": "1/2 plate",
+    "rating": 5
+  },
+  {
+    "id": "10",
+    "name": "Mutton Briyani",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607716/food%20delivery/dishes/mutton-briyani_y3psjy.jpg",
+    "price": 240,
+    "label": "1/2 plate",
+    "rating": 4
+  },
+  {
+    "id": "11",
+    "name": "Fried Chicken Noodles",
+    "isVegetarian": false,
+    "cuisine": "Chinese",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607718/food%20delivery/dishes/fried-noodles_b7gapu.jpg",
+    "price": 40,
+    "label": "1 plate",
+    "rating": 3
+  },
+  {
+    "id": "12",
+    "name": "Grilled Chicken",
+    "isVegetarian": false,
+    "cuisine": "Arab",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607717/food%20delivery/dishes/grilled-chicken_gcdkth.jpg",
+    "price": 180,
+    "label": "1/2 plate",
+    "rating": 5
+  },
+  {
+    "id": "13",
+    "name": "Tandoori Chicken",
+    "isVegetarian": false,
+    "cuisine": "Arab",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607715/food%20delivery/dishes/tandoori-chicken_chbw5j.jpg",
+    "price": 175,
+    "label": "1/2 plate",
+    "rating": 4
+  },
+  {
+    "id": "14",
+    "name": "Chicken Lollypop",
+    "isVegetarian": false,
+    "cuisine": "Chinese",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607720/food%20delivery/dishes/chicken-lollipop_plb0jk.jpg",
+    "price": 210,
+    "label": "1 plate",
+    "rating": 3
+  },
+  {
+    "id": "15",
+    "name": "Chicken 65",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607719/food%20delivery/dishes/chicken-65_ej7x0r.jpg",
+    "price": 190,
+    "label": "1 plate",
+    "rating": 4
+  }
+]

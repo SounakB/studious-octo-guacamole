@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Adyar Ananda Bhavan",
+    "isVegetarian": true,
+    "cuisine": "Bengali",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607869/food%20delivery/restaurants/adayar-anandha-bhavan_xqj4vk.jpg",
+    "rating": 4,
+    "location": "Velacherry",
+    "deliveryTime" : 20
+  },
+  {
+    "id": "2",
+    "name": "Anjappar",
+    "isVegetarian": false,
+    "cuisine": "Italian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607871/food%20delivery/restaurants/anjappar_frqbr4.jpg",
+    "rating": 3,
+    "location": "Okkiyampet",
+    "deliveryTime" : 30
+  },
+  {
+    "id": "3",
+    "name": "Buhari Hotel",
+    "isVegetarian": false,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607862/food%20delivery/restaurants/buhari_jhmvqf.jpg",
+    "rating": 4.5,
+    "location": "Karapakkam",
+    "deliveryTime" : 35
+  },
+  {
+    "id": "4",
+    "name": "Sree Gupta Bhavan",
+    "isVegetarian": true,
+    "cuisine": "North Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607865/food%20delivery/restaurants/gupta-bhavan_dnp7fk.jpg",
+    "rating": 5,
+    "location": "SRP Tools",
+    "deliveryTime" : 60
+  },
+  {
+    "id": "5",
+    "name": "Hot Chips",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607847/food%20delivery/restaurants/hot-chips_r5b89x.jpg",
+    "rating": 4.8,
+    "location": "Thiruvanmiyur",
+    "deliveryTime" : 40
+  },
+  {
+    "id": "6",
+    "name": "Paradise Briyani",
+    "isVegetarian": false,
+    "cuisine": "Bengali",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607852/food%20delivery/restaurants/paradise_qpbygz.jpg",
+    "rating": 4,
+    "location": "SRP Tools",
+    "deliveryTime" : 50
+  },
+  {
+    "id": "7",
+    "name": "Saravana Bhavan",
+    "isVegetarian": true,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607854/food%20delivery/restaurants/saravana-bhavan_lyyplk.jpg",
+    "rating": 5,
+    "location": "Kandan Chavadi",
+    "deliveryTime" : 35
+  },
+  {
+    "id": "8",
+    "name": "Dindigul Thalappakatti",
+    "isVegetarian": false,
+    "cuisine": "South Indian",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607856/food%20delivery/restaurants/thalapakatti_xxf05t.jpg",
+    "rating": 3.5,
+    "location": "Karapakkam",
+    "deliveryTime" : 40
+  },
+  {
+    "id": "9",
+    "name": "Thambi Vilas",
+    "isVegetarian": false,
+    "cuisine": "Punjabi",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607859/food%20delivery/restaurants/thambi-vilas_nlv5wr.jpg",
+    "rating": 5,
+    "location": "Okkiyampet",
+    "deliveryTime" : 20
+  },
+  {
+    "id": "10",
+    "name": "Vasantha Bhavan",
+    "isVegetarian": true,
+    "cuisine": "Chinese",
+    "image": "https://res.cloudinary.com/sounakbiswas/image/upload/v1567607858/food%20delivery/restaurants/vasantha-bhavan_gnpyp2.jpg",
+    "rating": 4,
+    "location": "Adyar",
+    "deliveryTime" : 15
+  }
+]
